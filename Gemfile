@@ -5,7 +5,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 2.3.2.1'
 gem 'devise'
 gem 'simple_form'
-
+ruby '2.0.0'
 
 
 group :production do
